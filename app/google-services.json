@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224865340173",
+    "project_id": "msi-app-c31d7",
+    "storage_bucket": "msi-app-c31d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224865340173:android:bf8c6a7d2435dc0a463e44",
+        "android_client_info": {
+          "package_name": "com.example.MSI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224865340173-kv1u317m39grj5eo3q88ue5ofvsu9lv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhTZEoj53JECRcemm288-kWPoHggheSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224865340173-kv1u317m39grj5eo3q88ue5ofvsu9lv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
